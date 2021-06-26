@@ -7,6 +7,7 @@ Objectives of Project:
 5. To understand the investors behaviour on the basis of demographic factors, awareness, their risk &  return in avenues.
 6. To know the awareness of investment and problems faced by investors.
 7. To understand the proactive & reactive behavior of investors during uncertainty.
+
 Tools :
 1.MS Office
 2.Python
