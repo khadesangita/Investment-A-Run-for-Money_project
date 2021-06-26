@@ -9,6 +9,7 @@ Objectives of Project:
 7. To understand the proactive & reactive behavior of investors during uncertainty.
 
 Tools :
+
 1.MS Office
 
 2.Python
